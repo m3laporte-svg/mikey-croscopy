@@ -1,0 +1,12 @@
+{
+    "name": "data-archive",
+    "version": "1.0.0",
+    "description": "A web application to archive image data and link various files.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}

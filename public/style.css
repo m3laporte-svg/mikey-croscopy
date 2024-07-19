@@ -1,0 +1,10 @@
+body {
+    padding: 20px;
+}
+#files-tab {
+    border-right: 1px solid #ccc;
+    height: 100vh;
+}
+#content-area {
+    padding-left: 20px;
+}
